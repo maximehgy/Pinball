@@ -2,7 +2,7 @@
 
 --English version below--
 
-Simulation de pinball en ligne. Ce projet utilise javaFx, vous devez donc disposer de toutes les librairies nécessaires. Veillez aussi à avoir un fichier "module-info.java" correct. Vous pouvez accéder à la demo vidéo dans le dossier "demo". La vidéo ne contient pas de son, même si le jeu contient 
+Simulation de pinball en ligne. Ce projet utilise javaFx, vous devez donc disposer de toutes les librairies nécessaires. Veillez aussi à avoir un fichier "module-info.java" correct. Vous pouvez accéder à la demo vidéo dans le dossier "demo". La vidéo ne contient pas de son, même si le jeu en contient.
 
 ----
 
